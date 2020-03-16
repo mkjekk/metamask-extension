@@ -63,7 +63,7 @@
     ]
   },
   "dependencies": {
-    "abi-decoder": "^1.0.9",
+    "abi-decoder": "^1.2.0",
     "asmcrypto.js": "0.22.0",
     "async": "^2.5.0",
     "await-semaphore": "^0.1.1",
